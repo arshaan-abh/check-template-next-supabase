@@ -27,6 +27,7 @@
     "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {
+    "@iconify-json/material-symbols": "^1.2.5",
     "@svgr/core": "^8.1.0",
     "@svgr/plugin-jsx": "^8.1.0",
     "@types/node": "^20",
